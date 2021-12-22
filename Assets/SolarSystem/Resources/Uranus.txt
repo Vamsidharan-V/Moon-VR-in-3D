@@ -1,0 +1,28 @@
+﻿Aphelion TAB 20.11 AU (3,008 Gm) 
+Perihelion	TAB 18.33 AU (2,742 Gm) 
+Semi-major axis TAB 19.2184 AU (2,875.04 Gm) 
+Eccentricity TAB 0.046381 
+Orbital period TAB 84.0205 yr 42,718 Uranian solar days 
+Synodic period TAB 369.66 days 
+Average orbital speed TAB 6.80 km/s 
+Mean anomaly TAB 142.238600° 
+Inclination	TAB 0.773° to ecliptic 
+6.48° to Sun's equator 
+Longitude of ascending node TAB 74.006° 
+Argument of perihelion TAB 96.998857° 
+Known satellites TAB 27 
+
+Uranus is the seventh planet from the Sun. It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System. 
+Uranus is similar in composition to Neptune, and both have different bulk chemical composition from that of the larger gas giants Jupiter and Saturn. 
+For this reason, scientists often classify Uranus and Neptune as "ice giants" to distinguish them from the gas giants.
+Uranus's atmosphere, although similar to Jupiter's and Saturn's in its primary composition of hydrogen and helium, contains more "ices", such as water, ammonia, and methane, along with traces of other hydrocarbons.
+It is the coldest planetary atmosphere in the Solar System, with a minimum temperature of 49 K (−224.2 °C), and has a complex, layered cloud structure, with water thought to make up the lowest clouds, and methane the uppermost layer of clouds. 
+
+The interior of Uranus is mainly composed of ices and rock.
+
+
+
+
+
+
+

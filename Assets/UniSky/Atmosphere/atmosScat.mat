@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atmosScat
+  m_Shader: {fileID: 4800000, guid: 4445e1f9c0c4c1547bcd449c325df826, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DecalTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StarTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - noisetex:
+        m_Texture: {fileID: 2800000, guid: 76018f36586e3f648b654e9611e21e5f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - starTexture:
+        m_Texture: {fileID: 2800000, guid: a8281d2e8ff9d3441a3fca5ea2f2b00d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - DirectionalityFactor: 0
+    - SunColorIntensity: 0
+    - _Exposure: 1.5
+    - _G: -0.95
+    - _G2: 0.9025
+    - _Samples: 3
+    - _Shininess: 0.7
+    - _SkyBloomThreshold: 0
+    - _fCameraHeight: 45193.652
+    - _fCameraHeight2: 2.0424662e+9
+    - _fInnerRadius: 45000
+    - _fInnerRadius2: 2.025e+9
+    - _fKm4PI: 0.012566372
+    - _fKmESun: 0.012
+    - _fKr4PI: 0.03141593
+    - _fKrESun: 0.03
+    - _fOuterRadius: 46125
+    - _fOuterRadius2: 2.1275156e+9
+    - _fScale: 0.0008888889
+    - _fScaleDepth: 0.25
+    - _fScaleOverScaleDepth: 0.0035555556
+    - cloudSpeed1: 1
+    - cloudSpeed2: 1
+    - fade: 0
+    - plane_height1: 1
+    - plane_height2: 1
+    - tint: 1
+    m_Colors:
+    - BetaMieTheta: {r: 0, g: 0, b: 0, a: 1}
+    - BetaRayTheta: {r: 0, g: 0, b: 0, a: 1}
+    - LightDir: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _OffsetTransform: {r: 611.3171, g: 0, b: 1527.3893, a: 0}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SunColor: {r: 0, g: 0, b: 0, a: 1}
+    - _cInvWaveLength: {r: 5.6020455, g: 9.473285, b: 19.643803, a: 1}
+    - _v4CameraPos: {r: 611.3171, g: 45163.695, b: 1527.3893, a: 0}
+    - _v4LightDir: {r: -0.3691961, g: 0.09135584, b: 0.92485046, a: 0}
+    - g_vEyePt: {r: 0, g: 0, b: 0, a: 1}
+    - g_vSunColor: {r: 0, g: 0, b: 0, a: 1}
+    - vBetaMie: {r: 0, g: 0, b: 0, a: 1}
+    - vBetaRayleigh: {r: 0, g: 0, b: 0, a: 1}
+    - wind_direction: {r: 0.87369305, g: 1.2048682, b: 1.2365863, a: 0.3}
+  m_BuildTextureStacks: []
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

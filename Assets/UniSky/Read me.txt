@@ -1,0 +1,47 @@
+UNISKY
+Version 1.2 (Release)
+Six Times Nothing
+Developer: Chris Morris
+Contact: chris@sixtimesnothing.com
+
+
+**Quick start guide**
+
+To add UniSky to your scene and set it up for dynamic weather, simply follow these quick and easy steps:
+
+(1) Drag the UniSky prefab into your "Hierarchy", making sure not to just drag it into the "Scene View".
+(2) Set the "Scene Camera" variable under the "General" tab in the UniSky inspector to the main camera of your scene.
+(3) Make sure your main camera has a far clip plane that accomodates the sky dome (~100,000 to be safe).
+(4) Set your camera's background color is solid black.
+(5) Go into the Tag Manager (where you add layers), and name User Layer 8 and User Layer 9 "UniSky - Droplet Effect" and "UniSky - Offscreen Particles", respectively.
+(6) In the culling mask of your main camera, remove these two unisky layers defined in step 5.
+(7) Add "RainImageEffect.js" to your main camera (it's in the "weather" subfolder), and assign "RainImageEffect.mat" to the "Rain Image Material" slot.
+(8) Add "OffscreenParticlesImageEffect.js" to your main camera and assign "OffscreenCompositeMaterial.mat" to the "Composite Material" slot.
+(9) Add any existing terrains as a child of the "UniSky" game object in your hierarchy if you want the wind to affect the grass.
+(10) Finally, add the "Lightning" prefab as a child to your main camera.
+(9) Enjoy!
+
+-----------------------------------
+
+To learn how to use the full features of UniSky, read the written tutorial on our website:
+
+http://www.sixtimesnothing.com/unisky
+
+Or view our video tutorials:
+
+http://www.youtube.com/sixtimesnothing
+
+**Change log**
+
+Version 1.1
+
+1. Patched a visual bug unique to ATI video cards
+2. Added a Moon Size parameter
+3. Improved error handling
+4. Other minor adjustments and tweaks
+
+Version 1.2 (First weather update - rain)
+
+1. Added procedural storm behaviors - clouds, particle effects, and sounds
+2. Fixed a few bugs
+3. Other minor adjustments and tweaks

@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 445bfeb1bf1eb414e8421154fb165f05
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BigDoor
+    100002: //RootNode
+    100004: Puerta003
+    100006: Puerta004
+    100008: Puerta005
+    100010: Puerta006
+    100012: Puerta1
+    100014: Puerta2
+    100016: RoundDoor
+    100018: RoundDoor001
+    100020: SmallDoor
+    100022: ArcPieces
+    100024: ArcPieces001
+    100026: BigArc
+    100028: Box002
+    100030: Box003
+    100032: Connection000
+    100034: Connection001
+    100036: Connection002
+    100038: Connection003
+    100040: Connection004
+    100042: Connection005
+    100044: Connection006
+    100046: Connection007
+    100048: CorriDoor00
+    100050: CorriDoor001
+    100052: Floor00
+    100054: Floor001
+    100056: Gate000
+    100058: Gate001
+    100060: Gate002
+    100062: Line001
+    100064: Line002
+    100066: Line003
+    100068: Line004
+    100070: Line006
+    100072: Plane002
+    100074: Plane003
+    100076: Plane004
+    100078: Roof
+    100080: Roof00
+    100082: Wall00
+    100084: Box006
+    100086: Box007
+    100088: Box008
+    100090: Box009
+    100092: Box010
+    100094: Crystal
+    100096: Door
+    100098: RoundDoor002
+    100100: RoundDoor003
+    400000: BigDoor
+    400002: //RootNode
+    400004: Puerta003
+    400006: Puerta004
+    400008: Puerta005
+    400010: Puerta006
+    400012: Puerta1
+    400014: Puerta2
+    400016: RoundDoor
+    400018: RoundDoor001
+    400020: SmallDoor
+    400022: ArcPieces
+    400024: ArcPieces001
+    400026: BigArc
+    400028: Box002
+    400030: Box003
+    400032: Connection000
+    400034: Connection001
+    400036: Connection002
+    400038: Connection003
+    400040: Connection004
+    400042: Connection005
+    400044: Connection006
+    400046: Connection007
+    400048: CorriDoor00
+    400050: CorriDoor001
+    400052: Floor00
+    400054: Floor001
+    400056: Gate000
+    400058: Gate001
+    400060: Gate002
+    400062: Line001
+    400064: Line002
+    400066: Line003
+    400068: Line004
+    400070: Line006
+    400072: Plane002
+    400074: Plane003
+    400076: Plane004
+    400078: Roof
+    400080: Roof00
+    400082: Wall00
+    400084: Box006
+    400086: Box007
+    400088: Box008
+    400090: Box009
+    400092: Box010
+    400094: Crystal
+    400096: Door
+    400098: RoundDoor002
+    400100: RoundDoor003
+    2300000: BigDoor
+    2300002: Puerta003
+    2300004: Puerta004
+    2300006: Puerta005
+    2300008: Puerta006
+    2300010: Puerta1
+    2300012: Puerta2
+    2300014: RoundDoor
+    2300016: RoundDoor001
+    2300018: SmallDoor
+    2300020: ArcPieces
+    2300022: ArcPieces001
+    2300024: BigArc
+    2300026: Box002
+    2300028: Box003
+    2300030: Connection000
+    2300032: Connection001
+    2300034: Connection002
+    2300036: Connection003
+    2300038: Connection004
+    2300040: Connection005
+    2300042: Connection006
+    2300044: Connection007
+    2300046: CorriDoor00
+    2300048: CorriDoor001
+    2300050: Floor00
+    2300052: Floor001
+    2300054: Gate000
+    2300056: Gate001
+    2300058: Gate002
+    2300060: Line001
+    2300062: Line002
+    2300064: Line003
+    2300066: Line004
+    2300068: Plane002
+    2300070: Plane003
+    2300072: Plane004
+    2300074: Roof
+    2300076: Roof00
+    2300078: Wall00
+    2300080: Box006
+    2300082: Box007
+    2300084: Box008
+    2300086: Box009
+    2300088: Box010
+    2300090: Crystal
+    2300092: Door
+    2300094: RoundDoor002
+    2300096: RoundDoor003
+    3300000: BigDoor
+    3300002: Puerta003
+    3300004: Puerta004
+    3300006: Puerta005
+    3300008: Puerta006
+    3300010: Puerta1
+    3300012: Puerta2
+    3300014: RoundDoor
+    3300016: RoundDoor001
+    3300018: SmallDoor
+    3300020: ArcPieces
+    3300022: ArcPieces001
+    3300024: BigArc
+    3300026: Box002
+    3300028: Box003
+    3300030: Connection000
+    3300032: Connection001
+    3300034: Connection002
+    3300036: Connection003
+    3300038: Connection004
+    3300040: Connection005
+    3300042: Connection006
+    3300044: Connection007
+    3300046: CorriDoor00
+    3300048: CorriDoor001
+    3300050: Floor00
+    3300052: Floor001
+    3300054: Gate000
+    3300056: Gate001
+    3300058: Gate002
+    3300060: Line001
+    3300062: Line002
+    3300064: Line003
+    3300066: Line004
+    3300068: Plane002
+    3300070: Plane003
+    3300072: Plane004
+    3300074: Roof
+    3300076: Roof00
+    3300078: Wall00
+    3300080: Box006
+    3300082: Box007
+    3300084: Box008
+    3300086: Box009
+    3300088: Box010
+    3300090: Crystal
+    3300092: Door
+    3300094: RoundDoor002
+    3300096: RoundDoor003
+    4300000: RoundDoor
+    4300002: Puerta1
+    4300004: Puerta2
+    4300006: BigDoor
+    4300008: SmallDoor
+    4300010: RoundDoor001
+    4300012: Puerta003
+    4300014: Puerta004
+    4300016: Puerta005
+    4300018: Puerta006
+    4300020: Floor00
+    4300022: Box002
+    4300024: Wall00
+    4300026: Plane002
+    4300028: Plane003
+    4300030: Roof00
+    4300032: Plane004
+    4300034: BigArc
+    4300036: ArcPieces
+    4300038: ArcPieces001
+    4300040: Floor001
+    4300042: Box003
+    4300044: Gate000
+    4300046: Line001
+    4300048: CorriDoor00
+    4300050: Gate001
+    4300052: Line002
+    4300054: CorriDoor001
+    4300056: Connection000
+    4300058: Connection001
+    4300060: Line004
+    4300062: Line003
+    4300064: Connection002
+    4300066: Gate002
+    4300068: Connection003
+    4300070: Connection004
+    4300072: Connection005
+    4300074: Connection006
+    4300076: Connection007
+    4300078: Roof
+    4300080: Box009
+    4300082: Box008
+    4300084: Box010
+    4300086: Door
+    4300088: Crystal
+    4300090: Box006
+    4300092: Box007
+    4300094: RoundDoor002
+    4300096: RoundDoor003
+    6400000: BigDoor
+    6400002: Puerta003
+    6400004: Puerta004
+    6400006: Puerta005
+    6400008: Puerta006
+    6400010: Puerta1
+    6400012: Puerta2
+    6400014: RoundDoor
+    6400016: RoundDoor001
+    6400018: SmallDoor
+    6400020: ArcPieces
+    6400022: ArcPieces001
+    6400024: BigArc
+    6400026: Box002
+    6400028: Box003
+    6400030: Connection000
+    6400032: Connection001
+    6400034: Connection002
+    6400036: Connection003
+    6400038: Connection004
+    6400040: Connection005
+    6400042: Connection006
+    6400044: Connection007
+    6400046: CorriDoor00
+    6400048: CorriDoor001
+    6400050: Floor00
+    6400052: Floor001
+    6400054: Gate000
+    6400056: Gate001
+    6400058: Gate002
+    6400060: Line001
+    6400062: Line002
+    6400064: Line003
+    6400066: Line004
+    6400068: Plane002
+    6400070: Plane003
+    6400072: Plane004
+    6400074: Roof
+    6400076: Roof00
+    6400078: Wall00
+    6400080: Box006
+    6400082: Box007
+    6400084: Box008
+    6400086: Box009
+    6400088: Box010
+    6400090: Crystal
+    6400092: Door
+    6400094: RoundDoor002
+    6400096: RoundDoor003
+    7400000: Door Open
+    7400002: Door Close
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Door Open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BigDoor
+        weight: 1
+      - path: BigDoor/Box008
+        weight: 1
+      - path: BigDoor/Box009
+        weight: 1
+      - path: BigDoor/Box010
+        weight: 1
+      - path: RoundDoor
+        weight: 1
+      - path: RoundDoor/Puerta1
+        weight: 1
+      - path: RoundDoor/Puerta2
+        weight: 1
+      - path: RoundDoor001
+        weight: 1
+      - path: RoundDoor001/Puerta003
+        weight: 1
+      - path: RoundDoor001/Puerta004
+        weight: 1
+      - path: RoundDoor001/Puerta005
+        weight: 1
+      - path: RoundDoor001/Puerta006
+        weight: 1
+      - path: SmallDoor
+        weight: 1
+      - path: SmallDoor/Box006
+        weight: 1
+      - path: SmallDoor/Box007
+        weight: 1
+      - path: SmallDoor/Door
+        weight: 1
+      - path: SmallDoor/Door/Crystal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Door Close
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BigDoor
+        weight: 1
+      - path: RoundDoor
+        weight: 1
+      - path: RoundDoor/Puerta1
+        weight: 1
+      - path: RoundDoor/Puerta2
+        weight: 1
+      - path: RoundDoor001
+        weight: 1
+      - path: RoundDoor001/Puerta003
+        weight: 1
+      - path: RoundDoor001/Puerta004
+        weight: 1
+      - path: RoundDoor001/Puerta005
+        weight: 1
+      - path: RoundDoor001/Puerta006
+        weight: 1
+      - path: SmallDoor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.04
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

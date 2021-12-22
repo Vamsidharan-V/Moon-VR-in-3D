@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 3fdaa234ead3d3f44955898ec6c35df9
+timeCreated: 1454426015
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group15
+    100004: Object001
+    100006: Object002
+    100008: pCube11
+    100010: pCube12
+    100012: pCube14
+    100014: polySurface10
+    100016: DoorSq01
+    100018: DoorSq02
+    100020: DoorSq03
+    100022: DoorSq04
+    100024: DoorSq05
+    100026: DoorSq06
+    400000: //RootNode
+    400002: group15
+    400004: Object001
+    400006: Object002
+    400008: pCube11
+    400010: pCube12
+    400012: pCube14
+    400014: polySurface10
+    400016: DoorSq01
+    400018: DoorSq02
+    400020: DoorSq03
+    400022: DoorSq04
+    400024: DoorSq05
+    400026: DoorSq06
+    2300000: Object001
+    2300002: Object002
+    2300004: pCube11
+    2300006: pCube12
+    2300008: pCube14
+    2300010: polySurface10
+    2300012: DoorSq01
+    2300014: DoorSq02
+    2300016: DoorSq03
+    2300018: DoorSq04
+    2300020: DoorSq05
+    2300022: DoorSq06
+    3300000: Object001
+    3300002: Object002
+    3300004: pCube11
+    3300006: pCube12
+    3300008: pCube14
+    3300010: polySurface10
+    3300012: DoorSq01
+    3300014: DoorSq02
+    3300016: DoorSq03
+    3300018: DoorSq04
+    3300020: DoorSq05
+    3300022: DoorSq06
+    4300000: pCube11
+    4300002: pCube12
+    4300004: polySurface10
+    4300006: pCube14
+    4300008: Object001
+    4300010: Object002
+    4300012: DoorSq04
+    4300014: DoorSq03
+    4300016: DoorSq01
+    4300018: DoorSq06
+    4300020: DoorSq05
+    4300022: DoorSq02
+    7400000: OpenDoor
+    7400002: CloseDoor
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: OpenDoor
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DoorSq02
+        weight: 1
+      - path: DoorSq03
+        weight: 1
+      - path: DoorSq04
+        weight: 1
+      - path: DoorSq05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CloseDoor
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DoorSq02
+        weight: 1
+      - path: DoorSq03
+        weight: 1
+      - path: DoorSq04
+        weight: 1
+      - path: DoorSq05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

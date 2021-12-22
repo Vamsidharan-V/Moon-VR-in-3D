@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CumulusPerlinLayer
+  m_Shader: {fileID: 4800000, guid: d96f4fd1aa9b254428a85da6e4a3f144, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IllumReference:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IlluminationInput:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PermTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CloudCover: 0.004998711
+    - _CloudSharpness: 0.5
+    - _ColorVar1: -41.672913
+    - _ColorVar2: 5.516412
+    - _Exposure: 4
+    - _FogDensity: 0
+    - _G: -0.945
+    - _G2: 0.893025
+    - _GlowVar: 4.3
+    - _PrecipLevel: 0.84949297
+    - _Samples: 3
+    - _Scale: 67.304756
+    - _SkyBloomThreshold: 0
+    - _Speed: 7.83122
+    - _SunAngle: 0.9994542
+    - _ViewDistance: 3
+    - _fCameraHeight: 45071.04
+    - _fCameraHeight2: 2.0313985e+9
+    - _fInnerRadius: 45000
+    - _fInnerRadius2: 2.025e+9
+    - _fKm4PI: 0.012566372
+    - _fKmESun: 0.012
+    - _fKr4PI: 0.03141593
+    - _fKrESun: 0.03
+    - _fOuterRadius: 46125
+    - _fOuterRadius2: 2.1275156e+9
+    - _fScale: 0.0008888889
+    - _fScaleDepth: 0.25
+    - _fScaleOverScaleDepth: 0.0035555556
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorVar1: {r: 1.5, g: 1.5, b: 1.5, a: 0}
+    - _ColorVar2: {r: 0.3, g: 0.3, b: 0.3, a: 0}
+    - _EyeDirection: {r: 0.9743216, g: -0.11320323, b: 0.19463515, a: 0}
+    - _GlowVar: {r: 23.321995, g: 21.357616, b: 15.587086, a: 0}
+    - _OffsetTransform: {r: 217.45807, g: 0, b: -373.13477, a: 0}
+    - _ShadowColor: {r: 5.2689557, g: 5.044868, b: 4.0414405, a: 0}
+    - _Speed: {r: 0.3, g: 0.3, b: 0.1, a: 0}
+    - _SunAngle: {r: 0, g: 0, b: 0, a: 1}
+    - _SunColor: {r: 0.9265549, g: 0.91345334, b: 0.8915076, a: 1}
+    - _SunDirection: {r: 42.470043, g: 149.96584, b: 0, a: 0}
+    - _cInvWaveLength: {r: 5.6020455, g: 9.473285, b: 19.643803, a: 1}
+    - _v3CameraPos: {r: 1783.094, g: 46284.02, b: 1795.8623, a: 0}
+    - _v4CameraPos: {r: 217.45807, g: 45068.97, b: -373.13477, a: 0}
+    - _v4LightDir: {r: -0.36919588, g: -0.050064553, b: 0.9280022, a: 0}
+  m_BuildTextureStacks: []
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

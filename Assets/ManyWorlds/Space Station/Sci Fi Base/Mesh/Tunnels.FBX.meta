@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 8ded082cf14f6304aae220de705aa545
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cylinder025
+    100002: Cylinder026
+    100004: Cylinder027
+    100006: Cylinder028
+    100008: Cylinder029
+    100010: Cylinder030
+    100012: Ending008
+    100014: Ending009
+    100016: Ending010
+    100018: Rejilla
+    100020: Tunnel00
+    100022: Tunnel01
+    100024: Tunnel02
+    100026: Tunnel03
+    100028: //RootNode
+    400000: Cylinder025
+    400002: Cylinder026
+    400004: Cylinder027
+    400006: Cylinder028
+    400008: Cylinder029
+    400010: Cylinder030
+    400012: Ending008
+    400014: Ending009
+    400016: Ending010
+    400018: Rejilla
+    400020: Tunnel00
+    400022: Tunnel01
+    400024: Tunnel02
+    400026: Tunnel03
+    400028: //RootNode
+    2300000: Cylinder025
+    2300002: Cylinder026
+    2300004: Cylinder027
+    2300006: Cylinder028
+    2300008: Cylinder029
+    2300010: Cylinder030
+    2300012: Ending008
+    2300014: Ending009
+    2300016: Ending010
+    2300018: Rejilla
+    2300020: Tunnel00
+    2300022: Tunnel01
+    2300024: Tunnel02
+    2300026: Tunnel03
+    3300000: Cylinder025
+    3300002: Cylinder026
+    3300004: Cylinder027
+    3300006: Cylinder028
+    3300008: Cylinder029
+    3300010: Cylinder030
+    3300012: Ending008
+    3300014: Ending009
+    3300016: Ending010
+    3300018: Rejilla
+    3300020: Tunnel00
+    3300022: Tunnel01
+    3300024: Tunnel02
+    3300026: Tunnel03
+    4300000: Ending008
+    4300002: Rejilla
+    4300004: Tunnel00
+    4300006: Ending009
+    4300008: Cylinder025
+    4300010: Cylinder026
+    4300012: Ending010
+    4300014: Cylinder027
+    4300016: Cylinder028
+    4300018: Cylinder029
+    4300020: Cylinder030
+    4300022: Tunnel01
+    4300024: Tunnel02
+    4300026: Tunnel03
+    6400000: Cylinder025
+    6400002: Cylinder026
+    6400004: Cylinder027
+    6400006: Cylinder028
+    6400008: Cylinder029
+    6400010: Cylinder030
+    6400012: Ending008
+    6400014: Ending009
+    6400016: Ending010
+    6400018: Rejilla
+    6400020: Tunnel00
+    6400022: Tunnel01
+    6400024: Tunnel02
+    6400026: Tunnel03
+    7400000: Open
+    7400002: Close
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ending008
+        weight: 1
+      - path: Ending008/Rejilla
+        weight: 1
+      - path: Ending009
+        weight: 1
+      - path: Ending009/Cylinder025
+        weight: 1
+      - path: Ending009/Cylinder025/Cylinder026
+        weight: 1
+      - path: Ending010
+        weight: 1
+      - path: Ending010/Cylinder027
+        weight: 1
+      - path: Ending010/Cylinder027/Cylinder028
+        weight: 1
+      - path: Ending010/Cylinder029
+        weight: 1
+      - path: Ending010/Cylinder029/Cylinder030
+        weight: 1
+      - path: Tunnel00
+        weight: 1
+      - path: Tunnel01
+        weight: 1
+      - path: Tunnel02
+        weight: 1
+      - path: Tunnel03
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Close
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ending008
+        weight: 1
+      - path: Ending008/Rejilla
+        weight: 1
+      - path: Ending009
+        weight: 1
+      - path: Ending009/Cylinder025
+        weight: 1
+      - path: Ending009/Cylinder025/Cylinder026
+        weight: 1
+      - path: Ending010
+        weight: 1
+      - path: Ending010/Cylinder027
+        weight: 1
+      - path: Ending010/Cylinder027/Cylinder028
+        weight: 1
+      - path: Ending010/Cylinder029
+        weight: 1
+      - path: Ending010/Cylinder029/Cylinder030
+        weight: 1
+      - path: Tunnel00
+        weight: 1
+      - path: Tunnel01
+        weight: 1
+      - path: Tunnel02
+        weight: 1
+      - path: Tunnel03
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0399999991
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
